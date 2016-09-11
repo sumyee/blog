@@ -493,9 +493,6 @@ body {
   border-bottom: transparent;
   word-wrap: break-word;
 }
-.main-inner a :hover {
-  border-bottom: 1px solid #0dcfb7;
-}
 @media (min-width: 1600px) {
   .container .main-inner {
     width: 900px;
@@ -1592,7 +1589,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ec0b21;
+  background: #6f67ff;
 }
 .links-of-blogroll {
   font-size: 13px;
