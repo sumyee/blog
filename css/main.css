@@ -487,6 +487,12 @@ body {
   margin: 20px auto;
   width: 700px;
 }
+.main-inner a {
+  color: #0dcfb7;
+  text-decoration: none;
+  border-bottom: none;
+  word-wrap: break-word;
+}
 @media (min-width: 1600px) {
   .container .main-inner {
     width: 900px;
@@ -1581,7 +1587,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #037cf4;
+  background: #5d222d;
 }
 .links-of-blogroll {
   font-size: 13px;
