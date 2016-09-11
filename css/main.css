@@ -1353,6 +1353,7 @@ pre .javascript .function {
   background: #0dcfb7;
   border-radius: 0;
   line-height: 2;
+  border: 2px solid #0dcfb7;
 }
 .posts-expand .post-tags {
   margin-top: 40px;
@@ -1588,7 +1589,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #cf6b33;
+  background: #63bbff;
 }
 .links-of-blogroll {
   font-size: 13px;
