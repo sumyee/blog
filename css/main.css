@@ -503,6 +503,7 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
+  background-color: rgba(13,207,183,0.15);
   min-height: 50px;
 }
 .footer-inner {
@@ -1587,7 +1588,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5d222d;
+  background: #504aff;
 }
 .links-of-blogroll {
   font-size: 13px;
